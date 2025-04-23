@@ -1,0 +1,16 @@
+{
+  "name": "LuxuryCarRentSystem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "dependencies": {
+    "@types/express": "^5.0.1",
+    "express": "^5.1.0",
+    "mysql2": "^3.14.0",
+    "ts-node": "^10.9.2"
+  }
+}
